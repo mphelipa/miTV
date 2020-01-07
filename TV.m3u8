@@ -59,6 +59,8 @@ http://api.streann.com:8080/loadbalancer-dev/services/public/channels/56992db2e4
 http://edge1.tvdirect13.com/live/smil:mystream.smil/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://www.nostvbonaire.com/wp-content/uploads/2019/01/cropped-LOGO-NOSTV-WEBSITE-2019-1.png" group-title="CW",.CW NOS TV Bonaire
 http://streaming.flamingotv.net/nostv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Nos_Pais_Logo.svg/1200px-Nos_Pais_Logo.svg.png" group-title="CW",.CW NOS Pais
+https://558bd16067b67.streamlock.net/nos_pais_24_7/smil:livestream.stream.smil/chunklist_w997519270_b2000000.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn2.f-cdn.com/contestentries/856622/15816022/57eff8764323d_thumb900.jpg" group-title="MY PREMIUM ADULT",Big Ass
