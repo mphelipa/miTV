@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz"
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://24-7.virtualsoaring.eu/images/24-7.jpg" group-title="MY 24/7", 24/7: 1000 Ways To Die
 http://thenew.tv:8000/Vin/Vin/86462
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://24-7.virtualsoaring.eu/images/24-7.jpg" group-title="MY 24/7", 24/7: 11.22.63*
@@ -1017,16 +1018,6 @@ http://its.thunder-tv.com:8000/Vin/Vin/89985
 http://its.thunder-tv.com:8000/Vin/Vin/85437
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://24-7.virtualsoaring.eu/images/24-7.jpg" group-title="MY 24/7", CHRISTMAS: 24/7 Hallmark Xmas Movies
 http://its.thunder-tv.com:8000/Vin/Vin/99369
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://seeklogo.net/wp-content/uploads/2014/10/nfl-logo-National-Football-League-400x400.png" group-title="MY US", US: NFL NETWORK | HD
-http://its.nextleveliptv.net:8000/Vin/Vin/100648
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://seeklogo.net/wp-content/uploads/2014/10/nfl-logo-National-Football-League-400x400.png" group-title="MY US", US: NFL REDZONE | HD
-http://its.nextleveliptv.net:8000/Vin/Vin/100649
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.azzurrogroup.com/wp-content/uploads/2017/07/azzurro-client-mlb-network-logo-291x300.png" group-title="MY US", US: MLB NETWORK
-http://its.nextleveliptv.net:8000/Vin/Vin/475
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/MgvwdLt.jpg" group-title="MY US", PPV: MMA 03 | Australia FC 23 (30.11 11:30PM ET)
-http://its.nextleveliptv.net:8000/Vin/Vin/100639
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://seeklogo.net/wp-content/uploads/2014/09/NBA-logo.png" group-title="MY US", US: NBA TV | HD
-http://its.nextleveliptv.net:8000/Vin/Vin/100643
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://24-7.virtualsoaring.eu/images/24-7.jpg" group-title="MY US", 24/7: Absolutely Fabulous
 http://its.nextleveliptv.net:8000/Vin/Vin/92229
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://24-7.virtualsoaring.eu/images/24-7.jpg" group-title="MY 24/7", 24/7: Austin Powers
@@ -1053,83 +1044,26 @@ http://its.nextleveliptv.net:8000/Vin/Vin/92230
 http://its.nextleveliptv.net:8000/Vin/Vin/84487
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://24-7.virtualsoaring.eu/images/24-7.jpg" group-title="MY 24/7", 24/7: The Haunting Of Hill House
 http://its.nextleveliptv.net:8000/Vin/Vin/85442
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://24-7.virtualsoaring.eu/images/24-7.jpg" group-title="MY 24/7", 24/7: This is Us
-http://its.nextleveliptv.net:8000/Vin/Vin/85416
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://logosvector.net/wp-content/uploads/2013/03/hbo-black-vector-logo.png" group-title="MY US", BR: HBO PLUS | HD
-http://its.nextleveliptv.net:8000/Vin/Vin/96290
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://logosvector.net/wp-content/uploads/2013/03/hbo-black-vector-logo.png" group-title="MY US", BR: HBO PLUS | HD
-http://its.nextleveliptv.net:8000/Vin/Vin/96234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://logosvector.net/wp-content/uploads/2013/03/hbo-black-vector-logo.png" group-title="MY US", BR: HBO PLUS | HD*
-http://its.nextleveliptv.net:8000/Vin/Vin/96289
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://logosvector.net/wp-content/uploads/2013/03/hbo-black-vector-logo.png" group-title="MY US", BR: HBO PLUS*E | HD
-http://its.nextleveliptv.net:8000/Vin/Vin/96233
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", CA: GUSTO | SD
-http://its.nextleveliptv.net:8000/Vin/Vin/97811
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", CA: SERIES Plus | SD
-http://its.nextleveliptv.net:8000/Vin/Vin/97851
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", CA: TREEHOUSE | HD
-http://its.nextleveliptv.net:8000/Vin/Vin/97475
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", CBS WBNS Columbus Ohio
-http://its.nextleveliptv.net:8000/Vin/Vin/606
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", CBS WBZ Boston Massachusetts
-http://its.nextleveliptv.net:8000/Vin/Vin/608
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", CBS WUSA Washington D.C.
-http://its.nextleveliptv.net:8000/Vin/Vin/619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", F1 TV : Kevin Magnussen Helmet Camera
-http://its.nextleveliptv.net:8000/Vin/Vin/93418
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", FOX KRIV Houston Texas
-http://its.nextleveliptv.net:8000/Vin/Vin/1754
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", FOX WFXT Boston Massachusetts
-http://its.nextleveliptv.net:8000/Vin/Vin/1764
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", MX: A PLUS | SD
-http://its.nextleveliptv.net:8000/Vin/Vin/96656
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", MX: DE PELICULA PLUS | HD
-http://its.nextleveliptv.net:8000/Vin/Vin/96666
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", MX: DE PELICULA PLUS | SD
-http://its.nextleveliptv.net:8000/Vin/Vin/96888
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", MX: ESPN PLUS | HD
-http://its.nextleveliptv.net:8000/Vin/Vin/96673
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", MX: ESPN PLUS | SD
-http://its.nextleveliptv.net:8000/Vin/Vin/96910
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", MX: GOLDEN PLUS | SD
-http://its.nextleveliptv.net:8000/Vin/Vin/96930
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", MX: MULTIMEDIOS PLUS | UHD
-http://its.nextleveliptv.net:8000/Vin/Vin/96653
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", MX: TELEHIT PLUS | HD
-http://its.nextleveliptv.net:8000/Vin/Vin/96743
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", NBC KPRC Houston Texas
-http://its.nextleveliptv.net:8000/Vin/Vin/628
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY PREMIUM ADULT", PREMIUM ADULT: Exotica Plus | UHD
-http://its.nextleveliptv.net:8000/Vin/Vin/98417
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY PREMIUM ADULT", PREMIUM ADULT: Hustler | UHD
-http://its.nextleveliptv.net:8000/Vin/Vin/98415
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://cdn2.f-cdn.com/contestentries/856622/15816022/57eff8764323d_thumb900.jpg" group-title="MY PREMIUM ADULT", PREMIUM ADULT: Hustler | UHD
-http://its.nextleveliptv.net:8000/Vin/Vin/98416
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://cdn2.f-cdn.com/contestentries/856622/15816022/57eff8764323d_thumb900.jpg" group-title="MY PREMIUM ADULT", PREMIUM ADULT: HUSTLER TV | SD
-http://its.nextleveliptv.net:8000/Vin/Vin/98431
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://cdn2.f-cdn.com/contestentries/856622/15816022/57eff8764323d_thumb900.jpg" group-title="MY PREMIUM ADULT", PREMIUM ADULT: HustlerTV | SD
-http://its.nextleveliptv.net:8000/Vin/Vin/98448
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://cdn2.f-cdn.com/contestentries/856622/15816022/57eff8764323d_thumb900.jpg" group-title="MY PREMIUM ADULT", PREMIUM ADULT: Penthouse | SD
-http://its.nextleveliptv.net:8000/Vin/Vin/98437
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://cdn2.f-cdn.com/contestentries/856622/15816022/57eff8764323d_thumb900.jpg" group-title="MY PREMIUM ADULT", PREMIUM ADULT: Penthouse 1 | UHD
-http://its.nextleveliptv.net:8000/Vin/Vin/98413
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://cdn2.f-cdn.com/contestentries/856622/15816022/57eff8764323d_thumb900.jpg" group-title="MY PREMIUM ADULT", PREMIUM ADULT: Secret Plus HQ | UHD
-http://its.nextleveliptv.net:8000/Vin/Vin/98409
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://cdn2.f-cdn.com/contestentries/856622/15816022/57eff8764323d_thumb900.jpg" group-title="MY PREMIUM ADULT", PREMIUM ADULT: Venus TV | SD
-http://its.nextleveliptv.net:8000/Vin/Vin/98454
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY UK", UK: 4Music | HD
-http://its.nextleveliptv.net:8000/Vin/Vin/97026
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY UK", UK: 5 USA | HD
-http://its.nextleveliptv.net:8000/Vin/Vin/97029
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY UK", UK: B4U Music | SD
-http://its.nextleveliptv.net:8000/Vin/Vin/97044
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY UK", UK: CBS Justice | HD
-http://its.nextleveliptv.net:8000/Vin/Vin/97084
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY UK", UK: MTV Music | HD
-http://its.nextleveliptv.net:8000/Vin/Vin/97201
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY UK", UK: MTV Music 1 | HD
-http://its.nextleveliptv.net:8000/Vin/Vin/97200
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY UK", UK: Star Plus | SD
+
+
+
+
+#EXTINF:-1 tvg-id="NFL Network-US" tvg-name="" tvg-language="English" tvg-logo="https://seeklogo.net/wp-content/uploads/2014/10/nfl-logo-National-Football-League-400x400.png" group-title="MY US", US: NFL NETWORK | HD
+http://its.nextleveliptv.net:8000/Vin/Vin/100648
+#EXTINF:-1 tvg-id="NFL Red Zone-US" tvg-name="" tvg-language="English" tvg-logo="https://seeklogo.net/wp-content/uploads/2014/10/nfl-logo-National-Football-League-400x400.png" group-title="MY US", US: NFL REDZONE | HD
+http://its.nextleveliptv.net:8000/Vin/Vin/100649
+#EXTINF:-1 tvg-id="MLB Network-US" tvg-name="" tvg-language="English" tvg-logo="https://www.azzurrogroup.com/wp-content/uploads/2017/07/azzurro-client-mlb-network-logo-291x300.png" group-title="MY US", US: MLB NETWORK
+http://its.nextleveliptv.net:8000/Vin/Vin/475
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/MgvwdLt.jpg" group-title="MY US", PPV: MMA 03 | Australia FC 23 (30.11 11:30PM ET)
+http://its.nextleveliptv.net:8000/Vin/Vin/100639
+#EXTINF:-1 tvg-id="NBA TV USA-US" tvg-name="" tvg-language="English" tvg-logo="https://seeklogo.net/wp-content/uploads/2014/09/NBA-logo.png" group-title="MY US", US: NBA TV | HD
+http://its.nextleveliptv.net:8000/Vin/Vin/100643
+
+
+
+
+
+
 http://its.nextleveliptv.net:8000/Vin/Vin/97272
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: A&E
 http://its.nextleveliptv.net:8000/Vin/Vin/1
@@ -1197,11 +1131,11 @@ http://its.nextleveliptv.net:8000/Vin/Vin/93298
 http://its.nextleveliptv.net:8000/Vin/Vin/357
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: ABC News
 http://its.nextleveliptv.net:8000/Vin/Vin/123
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: ABC NYC
+#EXTINF:-1 tvg-id="ABC HD New York-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: ABC NYC
 http://its.nextleveliptv.net:8000/Vin/Vin/93295
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: ABC Orlando
 http://its.nextleveliptv.net:8000/Vin/Vin/362
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: ABC Philadelphia PA
+#EXTINF:-1 tvg-id="ABC HD Philadelphia-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: ABC Philadelphia PA
 http://its.nextleveliptv.net:8000/Vin/Vin/329
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: ABC Portland OR
 http://its.nextleveliptv.net:8000/Vin/Vin/93297
@@ -1237,24 +1171,20 @@ http://its.nextleveliptv.net:8000/Vin/Vin/93303
 http://its.nextleveliptv.net:8000/Vin/Vin/229
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Aljazeera English
 http://its.nextleveliptv.net:8000/Vin/Vin/124
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: AMC
+#EXTINF:-1 tvg-id="AMC - Eastern Feed-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: AMC
 http://its.nextleveliptv.net:8000/Vin/Vin/93228
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: American Heroes
 http://its.nextleveliptv.net:8000/Vin/Vin/4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: American Heroes Channel SD
 http://its.nextleveliptv.net:8000/Vin/Vin/1972
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Animal Planet
+#EXTINF:-1 tvg-id="Animal Planet US - East-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Animal Planet
 http://its.nextleveliptv.net:8000/Vin/Vin/5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Animal Planet West SD
 http://its.nextleveliptv.net:8000/Vin/Vin/1974
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Antenna TV
+#EXTINF:-1 tvg-id="Antenna (KZJO-DT3) Seattle, WA-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Antenna TV
 http://its.nextleveliptv.net:8000/Vin/Vin/6
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Aspire TV
 http://its.nextleveliptv.net:8000/Vin/Vin/7
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: AT&T Sportsnet
-http://its.nextleveliptv.net:8000/Vin/Vin/93510
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Audience Network
-http://its.nextleveliptv.net:8000/Vin/Vin/97543
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: AWE
 http://its.nextleveliptv.net:8000/Vin/Vin/93238
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: AXS
@@ -1269,8 +1199,6 @@ http://its.nextleveliptv.net:8000/Vin/Vin/8
 http://its.nextleveliptv.net:8000/Vin/Vin/2075
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: BBC World News SD
 http://its.nextleveliptv.net:8000/Vin/Vin/2085
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Bein Sports
-http://its.nextleveliptv.net:8000/Vin/Vin/231
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: BET
 http://its.nextleveliptv.net:8000/Vin/Vin/9
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: BET Gospel
@@ -1279,43 +1207,29 @@ http://its.nextleveliptv.net:8000/Vin/Vin/93236
 http://its.nextleveliptv.net:8000/Vin/Vin/3046
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: BET Jams
 http://its.nextleveliptv.net:8000/Vin/Vin/93237
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: BIG TEN NETWORK
-http://its.nextleveliptv.net:8000/Vin/Vin/3032
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Big Ten Network
-http://its.nextleveliptv.net:8000/Vin/Vin/232
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Blaze TV
+#EXTINF:-1 tvg-id="TheBlaze (BLAZE)-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Blaze TV
 http://its.nextleveliptv.net:8000/Vin/Vin/93555
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Bloomberg
+#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Bloomberg
 http://its.nextleveliptv.net:8000/Vin/Vin/125
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: BOOMERANG
+#EXTINF:-1 tvg-id="Boomerang-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: BOOMERANG
 http://its.nextleveliptv.net:8000/Vin/Vin/197
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Boomerang SD
+#EXTINF:-1 tvg-id="Boomerang-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Boomerang SD
 http://its.nextleveliptv.net:8000/Vin/Vin/2054
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Bounce TV
+#EXTINF:-1 tvg-id="Bounce TV-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Bounce TV
 http://its.nextleveliptv.net:8000/Vin/Vin/10
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Bravo East
+#EXTINF:-1 tvg-id="Bravo USA - Eastern Feed-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Bravo East
 http://its.nextleveliptv.net:8000/Vin/Vin/11
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Bravo SD
+#EXTINF:-1 tvg-id="Bravo USA - Eastern Feed-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Bravo SD
 http://its.nextleveliptv.net:8000/Vin/Vin/1975
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Bravo West
 http://its.nextleveliptv.net:8000/Vin/Vin/12
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Bravo West SD
 http://its.nextleveliptv.net:8000/Vin/Vin/1976
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: BT Sport
-http://its.nextleveliptv.net:8000/Vin/Vin/233
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Bt Sport ESPN
-http://its.nextleveliptv.net:8000/Vin/Vin/237
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Buzzr TV
-http://its.nextleveliptv.net:8000/Vin/Vin/93352
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: C-Span
-http://its.nextleveliptv.net:8000/Vin/Vin/127
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: C-Span 2
-http://its.nextleveliptv.net:8000/Vin/Vin/126
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon Network USA - Eastern Feed-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Cartoon Network
 http://its.nextleveliptv.net:8000/Vin/Vin/156
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Cartoon Network SD
+#EXTINF:-1 tvg-id="Cartoon Network USA - Eastern Feed-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Cartoon Network SD
 http://its.nextleveliptv.net:8000/Vin/Vin/2055
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Cartoon Network SD
+#EXTINF:-1 tvg-id="Cartoon Network USA - Eastern Feed-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Cartoon Network SD
 http://its.nextleveliptv.net:8000/Vin/Vin/1977
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Cartoon Network West SD
 http://its.nextleveliptv.net:8000/Vin/Vin/2056
@@ -1323,7 +1237,7 @@ http://its.nextleveliptv.net:8000/Vin/Vin/2056
 http://its.nextleveliptv.net:8000/Vin/Vin/1978
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Cartoons 4U
 http://its.nextleveliptv.net:8000/Vin/Vin/157
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: CBS 2 NYC
+#EXTINF:-1 tvg-id="CBS HD New York-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: CBS 2 NYC
 http://its.nextleveliptv.net:8000/Vin/Vin/1939
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: CBS Baltimore MD
 http://its.nextleveliptv.net:8000/Vin/Vin/93284
@@ -1361,7 +1275,7 @@ http://its.nextleveliptv.net:8000/Vin/Vin/132
 http://its.nextleveliptv.net:8000/Vin/Vin/601
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: CBS Providence RI
 http://its.nextleveliptv.net:8000/Vin/Vin/93338
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: CBS San Diego CA
+#EXTINF:-1 tvg-id="CBS HD San Diego-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: CBS San Diego CA
 http://its.nextleveliptv.net:8000/Vin/Vin/597
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: CBS South Bend IN
 http://its.nextleveliptv.net:8000/Vin/Vin/93336
@@ -1389,7 +1303,7 @@ http://its.nextleveliptv.net:8000/Vin/Vin/2063
 http://its.nextleveliptv.net:8000/Vin/Vin/224
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: CINEMAX ACTIONMAX | HD
 http://its.nextleveliptv.net:8000/Vin/Vin/225
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: CINEMAX EAST | HD
+#EXTINF:-1 tvg-id="Cinemax - Eastern Feed-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: CINEMAX EAST | HD
 http://its.nextleveliptv.net:8000/Vin/Vin/226
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: CInemax Outermax
 http://its.nextleveliptv.net:8000/Vin/Vin/96072
@@ -1407,11 +1321,11 @@ http://its.nextleveliptv.net:8000/Vin/Vin/136
 http://its.nextleveliptv.net:8000/Vin/Vin/2078
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: CNBC World SD
 http://its.nextleveliptv.net:8000/Vin/Vin/2079
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: CNN
+#EXTINF:-1 tvg-id="CNN-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: CNN
 http://its.nextleveliptv.net:8000/Vin/Vin/13
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: CNN en Espa_ol SD
 http://its.nextleveliptv.net:8000/Vin/Vin/2080
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: CNN SD
+#EXTINF:-1 tvg-id="CNN-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: CNN SD
 http://its.nextleveliptv.net:8000/Vin/Vin/2081
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: College Sports Pacific
 http://its.nextleveliptv.net:8000/Vin/Vin/252
@@ -1425,27 +1339,27 @@ http://its.nextleveliptv.net:8000/Vin/Vin/3036
 http://its.nextleveliptv.net:8000/Vin/Vin/35
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: COZI TV SD
 http://its.nextleveliptv.net:8000/Vin/Vin/1981
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Crime and Investigation
+#EXTINF:-1 tvg-id="Crime and Investigation Network USA-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Crime and Investigation
 http://its.nextleveliptv.net:8000/Vin/Vin/84214
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Destination America
 http://its.nextleveliptv.net:8000/Vin/Vin/36
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Destination America SD
 http://its.nextleveliptv.net:8000/Vin/Vin/1982
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Discovery Channel
+#EXTINF:-1 tvg-id="US-Discovery Channel (US) - Eastern Feed" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Discovery Channel
 http://its.nextleveliptv.net:8000/Vin/Vin/37
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Discovery Channel SD
+#EXTINF:-1 tvg-id="US-Discovery Channel (US) - Eastern Feed" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Discovery Channel SD
 http://its.nextleveliptv.net:8000/Vin/Vin/1987
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Discovery Family
+#EXTINF:-1 tvg-id="Discovery Family Channel-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Discovery Family
 http://its.nextleveliptv.net:8000/Vin/Vin/38
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Discovery ID
+#EXTINF:-1 tvg-id="Investigation Discovery USA - Eastern-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Discovery ID
 http://its.nextleveliptv.net:8000/Vin/Vin/40
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Discovery Life Channel
 http://its.nextleveliptv.net:8000/Vin/Vin/39
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Discovery Life Channel SD
 http://its.nextleveliptv.net:8000/Vin/Vin/1986
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Discovery Science
+#EXTINF:-1 tvg-id="Science-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Discovery Science
 http://its.nextleveliptv.net:8000/Vin/Vin/93254
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Discovery Science SD
+#EXTINF:-1 tvg-id="Science-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Discovery Science SD
 http://its.nextleveliptv.net:8000/Vin/Vin/2024
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Discovery Velocity
 http://its.nextleveliptv.net:8000/Vin/Vin/3041
@@ -1457,39 +1371,37 @@ http://its.nextleveliptv.net:8000/Vin/Vin/2057
 http://its.nextleveliptv.net:8000/Vin/Vin/200
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Disney Channel West SD
 http://its.nextleveliptv.net:8000/Vin/Vin/2058
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: DISNEY JR
+#EXTINF:-1 tvg-id="Disney Junior USA - East-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: DISNEY JR
 http://its.nextleveliptv.net:8000/Vin/Vin/205
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: DISNEY JR WEST
 http://its.nextleveliptv.net:8000/Vin/Vin/203
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Disney Junior SD
+#EXTINF:-1 tvg-id="Disney Junior USA - East-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Disney Junior SD
 http://its.nextleveliptv.net:8000/Vin/Vin/2059
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Disney Junior West SD
 http://its.nextleveliptv.net:8000/Vin/Vin/2060
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Disney West
 http://its.nextleveliptv.net:8000/Vin/Vin/159
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: DISNEY XD
+#EXTINF:-1 tvg-id="Disney XD USA - Eastern Feed-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: DISNEY XD
 http://its.nextleveliptv.net:8000/Vin/Vin/210
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Disney XD SD
+#EXTINF:-1 tvg-id="Disney XD USA - Eastern Feed-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Disney XD SD
 http://its.nextleveliptv.net:8000/Vin/Vin/2061
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: DISNEY XD WEST
 http://its.nextleveliptv.net:8000/Vin/Vin/208
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Disney XD West SD
 http://its.nextleveliptv.net:8000/Vin/Vin/2062
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: DIY
+#EXTINF:-1 tvg-id="US-Do It Yourself Network (USA) - East" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: DIY
 http://its.nextleveliptv.net:8000/Vin/Vin/41
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Dog TV
-http://its.nextleveliptv.net:8000/Vin/Vin/3040
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: E! Entertainment
+#EXTINF:-1 tvg-id="E! Entertainment USA - Eastern Feed-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: E! Entertainment
 http://its.nextleveliptv.net:8000/Vin/Vin/15
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: E! Entertainment West
 http://its.nextleveliptv.net:8000/Vin/Vin/16
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: E! West SD
 http://its.nextleveliptv.net:8000/Vin/Vin/1990
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: EL Rey
+#EXTINF:-1 tvg-id="El Rey Network-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: EL Rey
 http://its.nextleveliptv.net:8000/Vin/Vin/17
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Eleven Sports Network
+#EXTINF:-1 tvg-id="Eleven Sports-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Eleven Sports Network
 http://its.nextleveliptv.net:8000/Vin/Vin/1956
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Epix
+#EXTINF:-1 tvg-id="EPIX - East-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Epix
 http://its.nextleveliptv.net:8000/Vin/Vin/62
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Epix 2
 http://its.nextleveliptv.net:8000/Vin/Vin/65
@@ -1499,27 +1411,27 @@ http://its.nextleveliptv.net:8000/Vin/Vin/93383
 http://its.nextleveliptv.net:8000/Vin/Vin/67
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: EPIX Hits SD
 http://its.nextleveliptv.net:8000/Vin/Vin/2066
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Epix SD
+#EXTINF:-1 tvg-id="EPIX - East-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Epix SD
 http://its.nextleveliptv.net:8000/Vin/Vin/2067
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: ESPN
+#EXTINF:-1 tvg-id="ESPN-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: ESPN
 http://its.nextleveliptv.net:8000/Vin/Vin/234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: ESPN 2
+#EXTINF:-1 tvg-id="ESPN2-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: ESPN 2
 http://its.nextleveliptv.net:8000/Vin/Vin/235
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: ESPN 3
 http://its.nextleveliptv.net:8000/Vin/Vin/93390
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: ESPN Classic
 http://its.nextleveliptv.net:8000/Vin/Vin/93554
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: ESPN Deportes
+#EXTINF:-1 tvg-id="ESPN Deportes-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: ESPN Deportes
 http://its.nextleveliptv.net:8000/Vin/Vin/246
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: ESPN Goal Line
 http://its.nextleveliptv.net:8000/Vin/Vin/247
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: ESPN News
+#EXTINF:-1 tvg-id="ESPN News-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: ESPN News
 http://its.nextleveliptv.net:8000/Vin/Vin/93349
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: ESPN SEC Network
 http://its.nextleveliptv.net:8000/Vin/Vin/248
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: ESPN U
+#EXTINF:-1 tvg-id="ESPN U-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: ESPN U
 http://its.nextleveliptv.net:8000/Vin/Vin/249
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fight Network
+#EXTINF:-1 tvg-id="Fight Network-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fight Network
 http://its.nextleveliptv.net:8000/Vin/Vin/93346
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: FISHING NETWORK
 http://its.nextleveliptv.net:8000/Vin/Vin/93384
@@ -1585,21 +1497,21 @@ http://its.nextleveliptv.net:8000/Vin/Vin/1769
 http://its.nextleveliptv.net:8000/Vin/Vin/93266
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: FOX Seattle WA
 http://its.nextleveliptv.net:8000/Vin/Vin/1751
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Soccer PLus
+#EXTINF:-1 tvg-id="FOX Soccer Plus-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Soccer PLus
 http://its.nextleveliptv.net:8000/Vin/Vin/253
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports 1
+#EXTINF:-1 tvg-id="Fox Sports 1-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports 1
 http://its.nextleveliptv.net:8000/Vin/Vin/255
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports 2
+#EXTINF:-1 tvg-id="Fox Sports 2-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports 2
 http://its.nextleveliptv.net:8000/Vin/Vin/256
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports Arizona
+#EXTINF:-1 tvg-id="Fox Sports Arizona-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports Arizona
 http://its.nextleveliptv.net:8000/Vin/Vin/257
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports Carolinas
+#EXTINF:-1 tvg-id="Fox Sports Carolinas-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports Carolinas
 http://its.nextleveliptv.net:8000/Vin/Vin/93512
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports Cincinatti
 http://its.nextleveliptv.net:8000/Vin/Vin/260
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports Deportes
+#EXTINF:-1 tvg-id="Fox Deportes-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports Deportes
 http://its.nextleveliptv.net:8000/Vin/Vin/261
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports Detroit
+#EXTINF:-1 tvg-id="Fox Sports Florida-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports Detroit
 http://its.nextleveliptv.net:8000/Vin/Vin/262
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports Florida
 http://its.nextleveliptv.net:8000/Vin/Vin/263
@@ -1609,11 +1521,11 @@ http://its.nextleveliptv.net:8000/Vin/Vin/267
 http://its.nextleveliptv.net:8000/Vin/Vin/268
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports Kansas City
 http://its.nextleveliptv.net:8000/Vin/Vin/269
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports Midwest
+#EXTINF:-1 tvg-id="Fox Sports Midwest-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports Midwest
 http://its.nextleveliptv.net:8000/Vin/Vin/270
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports New Orleans
 http://its.nextleveliptv.net:8000/Vin/Vin/271
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports North
+#EXTINF:-1 tvg-id="Fox Sports North-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports North
 http://its.nextleveliptv.net:8000/Vin/Vin/273
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports North Carolina
 http://its.nextleveliptv.net:8000/Vin/Vin/272
@@ -1629,121 +1541,117 @@ http://its.nextleveliptv.net:8000/Vin/Vin/3035
 http://its.nextleveliptv.net:8000/Vin/Vin/275
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports San Antonio
 http://its.nextleveliptv.net:8000/Vin/Vin/276
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports San Diego
+#EXTINF:-1 tvg-id="Fox Sports San Diego-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports San Diego
 http://its.nextleveliptv.net:8000/Vin/Vin/277
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports South
+#EXTINF:-1 tvg-id="Fox Sports South-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports South
 http://its.nextleveliptv.net:8000/Vin/Vin/279
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports South Carolina
 http://its.nextleveliptv.net:8000/Vin/Vin/278
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports Southeast
+#EXTINF:-1 tvg-id="Fox Sports Southeast-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports Southeast
 http://its.nextleveliptv.net:8000/Vin/Vin/280
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports Southwest
+#EXTINF:-1 tvg-id="Fox Sports Southwest-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports Southwest
 http://its.nextleveliptv.net:8000/Vin/Vin/94593
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports Southwest PLUS
 http://its.nextleveliptv.net:8000/Vin/Vin/281
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports SUN
+#EXTINF:-1 tvg-id="Fox Sports SUN-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports SUN
 http://its.nextleveliptv.net:8000/Vin/Vin/283
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports Tennessee
+#EXTINF:-1 tvg-id="Fox Sports Southeast Tennessee-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports Tennessee
 http://its.nextleveliptv.net:8000/Vin/Vin/284
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports Time Ohio
+#EXTINF:-1 tvg-id="Fox Sports Ohio-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports Time Ohio
 http://its.nextleveliptv.net:8000/Vin/Vin/94595
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports WEST
 http://its.nextleveliptv.net:8000/Vin/Vin/285
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports Wisconsin
+#EXTINF:-1 tvg-id="Fox Sports Wisconsin-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sports Wisconsin
 http://its.nextleveliptv.net:8000/Vin/Vin/286
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fox Sportstime Prime Ohio
 http://its.nextleveliptv.net:8000/Vin/Vin/282
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Free Speech TV
 http://its.nextleveliptv.net:8000/Vin/Vin/143
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: FreeForm
+#EXTINF:-1 tvg-id="Freeform - East Feed-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: FreeForm
 http://its.nextleveliptv.net:8000/Vin/Vin/20
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Freeform West
 http://its.nextleveliptv.net:8000/Vin/Vin/1995
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fuse
+#EXTINF:-1 tvg-id="FUSE TV - Eastern feed-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fuse
 http://its.nextleveliptv.net:8000/Vin/Vin/42
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fusion
+#EXTINF:-1 tvg-id="Fusion-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Fusion
 http://its.nextleveliptv.net:8000/Vin/Vin/43
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: FX East
+#EXTINF:-1 tvg-id="US-FX Networks East Coast" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: FX East
 http://its.nextleveliptv.net:8000/Vin/Vin/44
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: FX SD
+#EXTINF:-1 tvg-id="US-FX Networks East Coast" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: FX SD
 http://its.nextleveliptv.net:8000/Vin/Vin/1997
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: FX West
+#EXTINF:-1 tvg-id="US-FX Networks West Coast" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: FX West
 http://its.nextleveliptv.net:8000/Vin/Vin/45
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: FX West SD
+#EXTINF:-1 tvg-id="US-FX Networks West Coast" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: FX West SD
 http://its.nextleveliptv.net:8000/Vin/Vin/1998
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: FXM
 http://its.nextleveliptv.net:8000/Vin/Vin/46
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: FXM SD
 http://its.nextleveliptv.net:8000/Vin/Vin/1999
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: FXX East
+#EXTINF:-1 tvg-id="FXX USA - Eastern-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: FXX East
 http://its.nextleveliptv.net:8000/Vin/Vin/47
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: FXX SD
+#EXTINF:-1 tvg-id="FXX USA - Eastern" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: FXX SD
 http://its.nextleveliptv.net:8000/Vin/Vin/2000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: FXX West SD
+#EXTINF:-1 tvg-id="US-FXX WEST" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: FXX West SD
 http://its.nextleveliptv.net:8000/Vin/Vin/2001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: FYI
 http://its.nextleveliptv.net:8000/Vin/Vin/48
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Game Show Network
+#EXTINF:-1 tvg-id="Game Show Network - East-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Game Show Network
 http://its.nextleveliptv.net:8000/Vin/Vin/49
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Ginx TV
 http://its.nextleveliptv.net:8000/Vin/Vin/3044
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Gol Tv
 http://its.nextleveliptv.net:8000/Vin/Vin/93396
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: GOLF CHANNEL
-http://its.nextleveliptv.net:8000/Vin/Vin/3028
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Great Amerian Country
-http://its.nextleveliptv.net:8000/Vin/Vin/93364
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Grit TV
+#EXTINF:-1 tvg-id="Grit Network-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Grit TV
 http://its.nextleveliptv.net:8000/Vin/Vin/21
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Hallmark Channel
+#EXTINF:-1 tvg-id="Hallmark - Eastern Feed-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Hallmark Channel
 http://its.nextleveliptv.net:8000/Vin/Vin/50
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Hallmark Drama
 http://its.nextleveliptv.net:8000/Vin/Vin/51
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Hallmark Drama SD
 http://its.nextleveliptv.net:8000/Vin/Vin/2004
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Hallmark Movies and Mysteries
+#EXTINF:-1 tvg-id="Hallmark Movies & Mysteries - Eastern-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Hallmark Movies and Mysteries
 http://its.nextleveliptv.net:8000/Vin/Vin/52
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: HBO
 http://its.nextleveliptv.net:8000/Vin/Vin/70
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: HBO 2
+#EXTINF:-1 tvg-id="HBO 2 - Eastern Feed-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: HBO 2
 http://its.nextleveliptv.net:8000/Vin/Vin/93549
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: HBO Comedy
+#EXTINF:-1 tvg-id="HBO Comedy - East-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: HBO Comedy
 http://its.nextleveliptv.net:8000/Vin/Vin/72
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: HBO East SD
+#EXTINF:-1 tvg-id="HBO - Eastern Feed-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: HBO East SD
 http://its.nextleveliptv.net:8000/Vin/Vin/2068
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: HBO Family East
+#EXTINF:-1 tvg-id="HBO Family - Eastern Feed-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: HBO Family East
 http://its.nextleveliptv.net:8000/Vin/Vin/74
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: HBO Signature
+#EXTINF:-1 tvg-id="HBO Signature (HBO 3) - Eastern-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: HBO Signature
 http://its.nextleveliptv.net:8000/Vin/Vin/93550
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: HBO West SD
 http://its.nextleveliptv.net:8000/Vin/Vin/2069
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: HBO Zone
+#EXTINF:-1 tvg-id="HBO Zone - East-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: HBO Zone
 http://its.nextleveliptv.net:8000/Vin/Vin/75
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: HDNet Movies
 http://its.nextleveliptv.net:8000/Vin/Vin/97542
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Headline News
 http://its.nextleveliptv.net:8000/Vin/Vin/144
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: HGTV
+#EXTINF:-1 tvg-id="HGTV USA - Eastern Feed-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: HGTV
 http://its.nextleveliptv.net:8000/Vin/Vin/22
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: HGTV SD
+#EXTINF:-1 tvg-id="HGTV USA - Eastern Feed-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: HGTV SD
 http://its.nextleveliptv.net:8000/Vin/Vin/2006
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: HGTV West SD
 http://its.nextleveliptv.net:8000/Vin/Vin/2007
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: History
+#EXTINF:-1 tvg-id="History Channel US - Eastern Feed-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: History
 http://its.nextleveliptv.net:8000/Vin/Vin/23
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: HLN
 http://its.nextleveliptv.net:8000/Vin/Vin/3014
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: IFC SD
 http://its.nextleveliptv.net:8000/Vin/Vin/2009
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Independent Film Channel
+#EXTINF:-1 tvg-id="INDIEplex - Eastern-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Independent Film Channel
 http://its.nextleveliptv.net:8000/Vin/Vin/84
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Indieplex
+#EXTINF:-1 tvg-id="INDIEplex - Eastern-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Indieplex
 http://its.nextleveliptv.net:8000/Vin/Vin/96075
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: INSP
 http://its.nextleveliptv.net:8000/Vin/Vin/97590
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: INVESTIGATION DISCOVERY
+#EXTINF:-1 tvg-id="Investigation Discovery USA - Eastern-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: INVESTIGATION DISCOVERY
 http://its.nextleveliptv.net:8000/Vin/Vin/1791
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Investigation Discovery SD
+#EXTINF:-1 tvg-id="Investigation Discovery USA - Eastern-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Investigation Discovery SD
 http://its.nextleveliptv.net:8000/Vin/Vin/2010
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: ION
 http://its.nextleveliptv.net:8000/Vin/Vin/24
@@ -1751,15 +1659,15 @@ http://its.nextleveliptv.net:8000/Vin/Vin/24
 http://its.nextleveliptv.net:8000/Vin/Vin/93357
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Law and Crime
 http://its.nextleveliptv.net:8000/Vin/Vin/93367
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Lifetime
+#EXTINF:-1 tvg-id="Lifetime Network US - Eastern Feed-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Lifetime
 http://its.nextleveliptv.net:8000/Vin/Vin/25
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Lifetime Movies
+#EXTINF:-1 tvg-id="Lifetime Movies - East-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Lifetime Movies
 http://its.nextleveliptv.net:8000/Vin/Vin/26
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Logo
 http://its.nextleveliptv.net:8000/Vin/Vin/54
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Longhorn Network
 http://its.nextleveliptv.net:8000/Vin/Vin/1957
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: MAV TV
+#EXTINF:-1 tvg-id="MavTV USA-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: MAV TV
 http://its.nextleveliptv.net:8000/Vin/Vin/93354
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Me TV
 http://its.nextleveliptv.net:8000/Vin/Vin/27
@@ -1767,15 +1675,13 @@ http://its.nextleveliptv.net:8000/Vin/Vin/27
 http://its.nextleveliptv.net:8000/Vin/Vin/28
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Military History
 http://its.nextleveliptv.net:8000/Vin/Vin/99639
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: MLB Network
+#EXTINF:-1 tvg-id="US-MLB Network" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: MLB Network
 http://its.nextleveliptv.net:8000/Vin/Vin/287
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: MLB Strike Zone
 http://its.nextleveliptv.net:8000/Vin/Vin/1958
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Motor Trend
-http://its.nextleveliptv.net:8000/Vin/Vin/29
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Movieplex
+#EXTINF:-1 tvg-id="MOVIEplex - Eastern-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Movieplex
 http://its.nextleveliptv.net:8000/Vin/Vin/96073
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: MSG
+#EXTINF:-1 tvg-id="Madison Square Garden HD (MSGHD)-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: MSG
 http://its.nextleveliptv.net:8000/Vin/Vin/3033
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: MSG 2 | HD
 http://its.nextleveliptv.net:8000/Vin/Vin/97510
@@ -1783,11 +1689,11 @@ http://its.nextleveliptv.net:8000/Vin/Vin/97510
 http://its.nextleveliptv.net:8000/Vin/Vin/97509
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: MSG PLUS | HD
 http://its.nextleveliptv.net:8000/Vin/Vin/97511
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: MSNBC
+#EXTINF:-1 tvg-id="MSNBC USA-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: MSNBC
 http://its.nextleveliptv.net:8000/Vin/Vin/147
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: MSNBC
+#EXTINF:-1 tvg-id="MSNBC USA-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: MSNBC
 http://its.nextleveliptv.net:8000/Vin/Vin/2014
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: MTV
+#EXTINF:-1 tvg-id="MTV USA - Eastern Feed-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: MTV
 http://its.nextleveliptv.net:8000/Vin/Vin/30
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: MTV 2
 http://its.nextleveliptv.net:8000/Vin/Vin/93391
@@ -1797,25 +1703,25 @@ http://its.nextleveliptv.net:8000/Vin/Vin/93392
 http://its.nextleveliptv.net:8000/Vin/Vin/93393
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Nat Geo Mundo
 http://its.nextleveliptv.net:8000/Vin/Vin/2015
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Nat Geo WIld
+#EXTINF:-1 tvg-id="National Geographic Wild-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Nat Geo WIld
 http://its.nextleveliptv.net:8000/Vin/Vin/86
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Nat Geo WILD SD
+#EXTINF:-1 tvg-id="National Geographic Wild-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Nat Geo WILD SD
 http://its.nextleveliptv.net:8000/Vin/Vin/2016
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: National Geographic
+#EXTINF:-1 tvg-id="National Geographic US - Eastern-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: National Geographic
 http://its.nextleveliptv.net:8000/Vin/Vin/85
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: National Geographic SD
+#EXTINF:-1 tvg-id="National Geographic US - Eastern-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: National Geographic SD
 http://its.nextleveliptv.net:8000/Vin/Vin/2017
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: National Geographic West SD
 http://its.nextleveliptv.net:8000/Vin/Vin/2018
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NBA TV
+#EXTINF:-1 tvg-id="NBA TV USA-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NBA TV
 http://its.nextleveliptv.net:8000/Vin/Vin/288
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NBC 4 NYC
+#EXTINF:-1 tvg-id="US-NBC HD New York" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NBC 4 NYC
 http://its.nextleveliptv.net:8000/Vin/Vin/1938
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NBC Atlanta GA
 http://its.nextleveliptv.net:8000/Vin/Vin/93278
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NBC Baltimore MD
 http://its.nextleveliptv.net:8000/Vin/Vin/93285
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NBC Boston MA
+#EXTINF:-1 tvg-id="NBC HD Boston-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NBC Boston MA
 http://its.nextleveliptv.net:8000/Vin/Vin/93282
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NBC Corpus Christi TX
 http://its.nextleveliptv.net:8000/Vin/Vin/93302
@@ -1827,26 +1733,6 @@ http://its.nextleveliptv.net:8000/Vin/Vin/624
 http://its.nextleveliptv.net:8000/Vin/Vin/93288
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NBC East
 http://its.nextleveliptv.net:8000/Vin/Vin/87
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NBC Gold 1
-http://its.nextleveliptv.net:8000/Vin/Vin/93373
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NBC Gold 10
-http://its.nextleveliptv.net:8000/Vin/Vin/93382
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NBC Gold 2
-http://its.nextleveliptv.net:8000/Vin/Vin/93374
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NBC Gold 3
-http://its.nextleveliptv.net:8000/Vin/Vin/93375
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NBC Gold 4
-http://its.nextleveliptv.net:8000/Vin/Vin/93376
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NBC Gold 5
-http://its.nextleveliptv.net:8000/Vin/Vin/93377
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NBC Gold 6
-http://its.nextleveliptv.net:8000/Vin/Vin/93378
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NBC Gold 7
-http://its.nextleveliptv.net:8000/Vin/Vin/93379
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NBC Gold 8
-http://its.nextleveliptv.net:8000/Vin/Vin/93380
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NBC Gold 9
-http://its.nextleveliptv.net:8000/Vin/Vin/93381
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NBC Hartford CT
 http://its.nextleveliptv.net:8000/Vin/Vin/647
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NBC Miami FL
@@ -1859,43 +1745,11 @@ http://its.nextleveliptv.net:8000/Vin/Vin/97646
 http://its.nextleveliptv.net:8000/Vin/Vin/97593
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NBC San Diego CA
 http://its.nextleveliptv.net:8000/Vin/Vin/93267
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NBCSN
-http://its.nextleveliptv.net:8000/Vin/Vin/296
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NBCSN Bay Area
-http://its.nextleveliptv.net:8000/Vin/Vin/289
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NBCSN Boston
-http://its.nextleveliptv.net:8000/Vin/Vin/290
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NBCSN Chicago
-http://its.nextleveliptv.net:8000/Vin/Vin/93388
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NBCSN Chicago PLUS
-http://its.nextleveliptv.net:8000/Vin/Vin/291
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NBCSN Northwest
-http://its.nextleveliptv.net:8000/Vin/Vin/292
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NBCSN Philadeplhia
-http://its.nextleveliptv.net:8000/Vin/Vin/293
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NBCSN Washington
-http://its.nextleveliptv.net:8000/Vin/Vin/295
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NBCSN Washington PLUS
-http://its.nextleveliptv.net:8000/Vin/Vin/294
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NESN
-http://its.nextleveliptv.net:8000/Vin/Vin/3030
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NESN Plus
-http://its.nextleveliptv.net:8000/Vin/Vin/93363
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: New England Cable News
-http://its.nextleveliptv.net:8000/Vin/Vin/149
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NEWS 12 (Brooklyn)
-http://its.nextleveliptv.net:8000/Vin/Vin/96078
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: News 12 Long Island
-http://its.nextleveliptv.net:8000/Vin/Vin/96163
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Newsy
-http://its.nextleveliptv.net:8000/Vin/Vin/96077
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NFL Network
+#EXTINF:-1 tvg-id="NFL Network-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NFL Network
 http://its.nextleveliptv.net:8000/Vin/Vin/297
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NFL Redzone
+#EXTINF:-1 tvg-id="NFL Red Zone-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NFL Redzone
 http://its.nextleveliptv.net:8000/Vin/Vin/298
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NHL Network
-http://its.nextleveliptv.net:8000/Vin/Vin/299
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NICK JR
+#EXTINF:-1 tvg-id="Nick Jr. - East-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: NICK JR
 http://its.nextleveliptv.net:8000/Vin/Vin/212
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Nickelodeon
 http://its.nextleveliptv.net:8000/Vin/Vin/93353
@@ -1905,7 +1759,7 @@ http://its.nextleveliptv.net:8000/Vin/Vin/93358
 http://its.nextleveliptv.net:8000/Vin/Vin/300
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: One America News
 http://its.nextleveliptv.net:8000/Vin/Vin/151
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: OUTDOOR CHANNEL
+#EXTINF:-1 tvg-id="Outdoor Channel US-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: OUTDOOR CHANNEL
 http://its.nextleveliptv.net:8000/Vin/Vin/3027
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Outside TV
 http://its.nextleveliptv.net:8000/Vin/Vin/88
@@ -1913,9 +1767,9 @@ http://its.nextleveliptv.net:8000/Vin/Vin/88
 http://its.nextleveliptv.net:8000/Vin/Vin/2019
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Ovation
 http://its.nextleveliptv.net:8000/Vin/Vin/93365
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Own
+#EXTINF:-1 tvg-id="Oprah Winfrey Network USA Eastern-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Own
 http://its.nextleveliptv.net:8000/Vin/Vin/89
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: OWN SD
+#EXTINF:-1 tvg-id="Oprah Winfrey Network USA Eastern-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: OWN SD
 http://its.nextleveliptv.net:8000/Vin/Vin/2020
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Oxygen
 http://its.nextleveliptv.net:8000/Vin/Vin/90
@@ -1923,27 +1777,27 @@ http://its.nextleveliptv.net:8000/Vin/Vin/90
 http://its.nextleveliptv.net:8000/Vin/Vin/2021
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Oxygen West SD
 http://its.nextleveliptv.net:8000/Vin/Vin/2022
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Paramount Network
+#EXTINF:-1 tvg-id="Paramount Network USA - Eastern Feed-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Paramount Network
 http://its.nextleveliptv.net:8000/Vin/Vin/91
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: PBS
+#EXTINF:-1 tvg-id="PBS West Palm Beach-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: PBS
 http://its.nextleveliptv.net:8000/Vin/Vin/93450
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: PBS
+#EXTINF:-1 tvg-id="PBS Miami-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: PBS
 http://its.nextleveliptv.net:8000/Vin/Vin/465
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: PBS Kids
+#EXTINF:-1 tvg-id="PBS Kids (KCTS-TV2) Seattle, WA-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: PBS Kids
 http://its.nextleveliptv.net:8000/Vin/Vin/96076
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Pixl
 http://its.nextleveliptv.net:8000/Vin/Vin/93368
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Pop TV
+#EXTINF:-1 tvg-id="POP - East-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Pop TV
 http://its.nextleveliptv.net:8000/Vin/Vin/92
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: QVC
 http://its.nextleveliptv.net:8000/Vin/Vin/94
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Reelz
+#EXTINF:-1 tvg-id="ReelzChannel-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Reelz
 http://its.nextleveliptv.net:8000/Vin/Vin/93235
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Retroplex
 http://its.nextleveliptv.net:8000/Vin/Vin/96074
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Revolt
+#EXTINF:-1 tvg-id="Revolt HD-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Revolt
 http://its.nextleveliptv.net:8000/Vin/Vin/96105
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: RFD TV
+#EXTINF:-1 tvg-id="US-RFD-TV" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: RFD TV
 http://its.nextleveliptv.net:8000/Vin/Vin/93552
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: SEC Network
 http://its.nextleveliptv.net:8000/Vin/Vin/301
@@ -1951,19 +1805,19 @@ http://its.nextleveliptv.net:8000/Vin/Vin/301
 http://its.nextleveliptv.net:8000/Vin/Vin/77
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Showtime Beyond
 http://its.nextleveliptv.net:8000/Vin/Vin/96106
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Showtime East
+#EXTINF:-1 tvg-id="Showtime - Eastern Feed-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Showtime East
 http://its.nextleveliptv.net:8000/Vin/Vin/76
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Showtime East SD
+#EXTINF:-1 tvg-id="Showtime - Eastern Feed-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Showtime East SD
 http://its.nextleveliptv.net:8000/Vin/Vin/2070
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Showtime Extreme
+#EXTINF:-1 tvg-id="Showtime Extreme - Eastern-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Showtime Extreme
 http://its.nextleveliptv.net:8000/Vin/Vin/96071
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Showtime Family Zone
 http://its.nextleveliptv.net:8000/Vin/Vin/96109
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Showtime Next
 http://its.nextleveliptv.net:8000/Vin/Vin/96107
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Showtime Showcase
+#EXTINF:-1 tvg-id="Showtime Showcase - Eastern-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Showtime Showcase
 http://its.nextleveliptv.net:8000/Vin/Vin/96108
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Showtime West
+#EXTINF:-1 tvg-id="Showtime West-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Showtime West
 http://its.nextleveliptv.net:8000/Vin/Vin/78
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Showtime Women
 http://its.nextleveliptv.net:8000/Vin/Vin/96110
@@ -1987,87 +1841,83 @@ http://its.nextleveliptv.net:8000/Vin/Vin/1946
 http://its.nextleveliptv.net:8000/Vin/Vin/1944
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Start TV
 http://its.nextleveliptv.net:8000/Vin/Vin/98
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: STARZ
+#EXTINF:-1 tvg-id="Starz - Eastern" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: STARZ
 http://its.nextleveliptv.net:8000/Vin/Vin/100461
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Starz Cinema
+#EXTINF:-1 tvg-id="Starz Cinema - Eastern" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Starz Cinema
 http://its.nextleveliptv.net:8000/Vin/Vin/93370
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Starz Comedy
+#EXTINF:-1 tvg-id="Starz Comedy - Eastern-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Starz Comedy
 http://its.nextleveliptv.net:8000/Vin/Vin/79
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Starz Edge
+#EXTINF:-1 tvg-id="US-Starz Edge - Eastern" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Starz Edge
 http://its.nextleveliptv.net:8000/Vin/Vin/80
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Starz Encore
+#EXTINF:-1 tvg-id="Starz Encore - Eastern-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Starz Encore
 http://its.nextleveliptv.net:8000/Vin/Vin/81
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Starz Encore Action
+#EXTINF:-1 tvg-id="Starz Encore Action - Eastern-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Starz Encore Action
 http://its.nextleveliptv.net:8000/Vin/Vin/93547
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Starz Encore Black
+#EXTINF:-1 tvg-id="Starz Encore Black - Eastern-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Starz Encore Black
 http://its.nextleveliptv.net:8000/Vin/Vin/93548
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Starz Encore Classic
+#EXTINF:-1 tvg-id="Starz Encore Classics - Eastern-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Starz Encore Classic
 http://its.nextleveliptv.net:8000/Vin/Vin/93394
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Starz Encore Suspense
+#EXTINF:-1 tvg-id="Starz Encore Suspense - Eastern-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Starz Encore Suspense
 http://its.nextleveliptv.net:8000/Vin/Vin/93546
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Starz Encore Westerns
+#EXTINF:-1 tvg-id="Starz Encore Westerns - Eastern-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Starz Encore Westerns
 http://its.nextleveliptv.net:8000/Vin/Vin/93545
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Starz In Black
+#EXTINF:-1 tvg-id="Starz Encore Black - Eastern-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Starz In Black
 http://its.nextleveliptv.net:8000/Vin/Vin/93397
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Starz Kids & Family
+#EXTINF:-1 tvg-id="Starz Kids and Family - Eastern-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Starz Kids & Family
 http://its.nextleveliptv.net:8000/Vin/Vin/82
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Sundance TV
+#EXTINF:-1 tvg-id="SundanceTV USA - East-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Sundance TV
 http://its.nextleveliptv.net:8000/Vin/Vin/99
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: SyFy East
+#EXTINF:-1 tvg-id="Syfy - Eastern Feed-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: SyFy East
 http://its.nextleveliptv.net:8000/Vin/Vin/100
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: SyFy West
 http://its.nextleveliptv.net:8000/Vin/Vin/101
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Tastemade
 http://its.nextleveliptv.net:8000/Vin/Vin/102
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: TBS
+#EXTINF:-1 tvg-id="TBS - East-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: TBS
 http://its.nextleveliptv.net:8000/Vin/Vin/429
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: TBS SD
+#EXTINF:-1 tvg-id="TBS - East-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: TBS SD
 http://its.nextleveliptv.net:8000/Vin/Vin/2033
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: TBS West SD
 http://its.nextleveliptv.net:8000/Vin/Vin/2034
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: TeenNick
 http://its.nextleveliptv.net:8000/Vin/Vin/93360
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Tennis Channel
-http://its.nextleveliptv.net:8000/Vin/Vin/1947
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: The Cowboy Channel
-http://its.nextleveliptv.net:8000/Vin/Vin/93553
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: The CW
+#EXTINF:-1 tvg-id="cw11-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: The CW
 http://its.nextleveliptv.net:8000/Vin/Vin/103
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: The Movie Channel
 http://its.nextleveliptv.net:8000/Vin/Vin/93371
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: The Movie Channel Xtra
 http://its.nextleveliptv.net:8000/Vin/Vin/93372
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: The Weather Channel
+#EXTINF:-1 tvg-id="The Weather Channel-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: The Weather Channel
 http://its.nextleveliptv.net:8000/Vin/Vin/119
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: TLC
+#EXTINF:-1 tvg-id="TLC USA - Eastern-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: TLC
 http://its.nextleveliptv.net:8000/Vin/Vin/104
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: TLC West SD
 http://its.nextleveliptv.net:8000/Vin/Vin/2037
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: TNT East
+#EXTINF:-1 tvg-id="TNT - Eastern Feed-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: TNT East
 http://its.nextleveliptv.net:8000/Vin/Vin/105
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: TNT West
 http://its.nextleveliptv.net:8000/Vin/Vin/106
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Travel Channel
+#EXTINF:-1 tvg-id="Travel US - East-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Travel Channel
 http://its.nextleveliptv.net:8000/Vin/Vin/107
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Travel Channel
+#EXTINF:-1 tvg-id="Travel US - East-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Travel Channel
 http://its.nextleveliptv.net:8000/Vin/Vin/2040
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Tru TV East
+#EXTINF:-1 tvg-id="truTV USA - Eastern-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Tru TV East
 http://its.nextleveliptv.net:8000/Vin/Vin/108
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Turner Classic Movies
 http://its.nextleveliptv.net:8000/Vin/Vin/93395
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Tv Land
+#EXTINF:-1 tvg-id="TV Land - Eastern-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Tv Land
 http://its.nextleveliptv.net:8000/Vin/Vin/109
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Tv One
+#EXTINF:-1 tvg-id="TV One" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Tv One
 http://its.nextleveliptv.net:8000/Vin/Vin/110
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: TVG 2 Network
 http://its.nextleveliptv.net:8000/Vin/Vin/93511
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: TVG Network
 http://its.nextleveliptv.net:8000/Vin/Vin/93255
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Universal Kids
+#EXTINF:-1 tvg-id="Universal Kids-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Universal Kids
 http://its.nextleveliptv.net:8000/Vin/Vin/93466
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Up Tv
 http://its.nextleveliptv.net:8000/Vin/Vin/93386
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: USA Network East
+#EXTINF:-1 tvg-id="USA Network - East Feed-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: USA Network East
 http://its.nextleveliptv.net:8000/Vin/Vin/111
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: USA Network West
 http://its.nextleveliptv.net:8000/Vin/Vin/113
@@ -2075,17 +1925,17 @@ http://its.nextleveliptv.net:8000/Vin/Vin/113
 http://its.nextleveliptv.net:8000/Vin/Vin/2045
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: USA West SD
 http://its.nextleveliptv.net:8000/Vin/Vin/2046
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: VH1
+#EXTINF:-1 tvg-id="VH1 - Eastern Feed-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: VH1
 http://its.nextleveliptv.net:8000/Vin/Vin/115
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Viceland
 http://its.nextleveliptv.net:8000/Vin/Vin/116
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: We TV
+#EXTINF:-1 tvg-id="WE (Womens Entertainment) - Eastern-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: We TV
 http://its.nextleveliptv.net:8000/Vin/Vin/118
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: WE tv SD
+#EXTINF:-1 tvg-id="WE (Womens Entertainment) - Eastern-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: WE tv SD
 http://its.nextleveliptv.net:8000/Vin/Vin/2047
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: WGN America
+#EXTINF:-1 tvg-id="" tvg-name="WGN America - Eastern Feed-US" tvg-language="English" tvg-logo="" group-title="MY US", US: WGN America
 http://its.nextleveliptv.net:8000/Vin/Vin/84215
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: WGN Chicago
+#EXTINF:-1 tvg-id="WGN HD Chicago-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: WGN Chicago
 http://its.nextleveliptv.net:8000/Vin/Vin/96079
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: WGN News
 http://its.nextleveliptv.net:8000/Vin/Vin/154
@@ -2093,13 +1943,88 @@ http://its.nextleveliptv.net:8000/Vin/Vin/154
 http://its.nextleveliptv.net:8000/Vin/Vin/94561
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: World Fishing Network
 http://its.nextleveliptv.net:8000/Vin/Vin/93350
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: WPIX 11
+#EXTINF:-1 tvg-id="WPIX New York (SUPERSTATION)-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: WPIX 11
 http://its.nextleveliptv.net:8000/Vin/Vin/97516
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: WWE Network
+#EXTINF:-1 tvg-id="WWE-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: WWE Network
 http://its.nextleveliptv.net:8000/Vin/Vin/1943
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: YES Network
+#EXTINF:-1 tvg-id="YES Network-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: YES Network
 http://its.nextleveliptv.net:8000/Vin/Vin/1942
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", CA: GUSTO | SD
+http://its.nextleveliptv.net:8000/Vin/Vin/97811
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", CA: SERIES Plus | SD
+http://its.nextleveliptv.net:8000/Vin/Vin/97851
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", CA: TREEHOUSE | HD
+http://its.nextleveliptv.net:8000/Vin/Vin/97475
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", CBS WBNS Columbus Ohio
+http://its.nextleveliptv.net:8000/Vin/Vin/606
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", CBS WBZ Boston Massachusetts
+http://its.nextleveliptv.net:8000/Vin/Vin/608
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", CBS WUSA Washington D.C.
+http://its.nextleveliptv.net:8000/Vin/Vin/619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", F1 TV : Kevin Magnussen Helmet Camera
+http://its.nextleveliptv.net:8000/Vin/Vin/93418
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", FOX KRIV Houston Texas
+http://its.nextleveliptv.net:8000/Vin/Vin/1754
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", FOX WFXT Boston Massachusetts
+http://its.nextleveliptv.net:8000/Vin/Vin/1764
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", MX: A PLUS | SD
+http://its.nextleveliptv.net:8000/Vin/Vin/96656
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", MX: DE PELICULA PLUS | HD
+http://its.nextleveliptv.net:8000/Vin/Vin/96666
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", MX: DE PELICULA PLUS | SD
+http://its.nextleveliptv.net:8000/Vin/Vin/96888
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", MX: ESPN PLUS | HD
+http://its.nextleveliptv.net:8000/Vin/Vin/96673
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", MX: ESPN PLUS | SD
+http://its.nextleveliptv.net:8000/Vin/Vin/96910
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", MX: GOLDEN PLUS | SD
+http://its.nextleveliptv.net:8000/Vin/Vin/96930
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", MX: MULTIMEDIOS PLUS | UHD
+http://its.nextleveliptv.net:8000/Vin/Vin/96653
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", MX: TELEHIT PLUS | HD
+http://its.nextleveliptv.net:8000/Vin/Vin/96743
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", NBC KPRC Houston Texas
+http://its.nextleveliptv.net:8000/Vin/Vin/628
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY UK", UK: 4Music | HD
+http://its.nextleveliptv.net:8000/Vin/Vin/97026
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY UK", UK: 5 USA | HD
+http://its.nextleveliptv.net:8000/Vin/Vin/97029
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY UK", UK: B4U Music | SD
+http://its.nextleveliptv.net:8000/Vin/Vin/97044
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY UK", UK: CBS Justice | HD
+http://its.nextleveliptv.net:8000/Vin/Vin/97084
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY UK", UK: MTV Music | HD
+http://its.nextleveliptv.net:8000/Vin/Vin/97201
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY UK", UK: MTV Music 1 | HD
+http://its.nextleveliptv.net:8000/Vin/Vin/97200
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY UK", UK: Star Plus | SD
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://cdn2.f-cdn.com/contestentries/856622/15816022/57eff8764323d_thumb900.jpg" group-title="MY PREMIUM ADULT", XXX: Bang Bus
 http://its.nextleveliptv.net:8000/Vin/Vin/98507
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://cdn2.f-cdn.com/contestentries/856622/15816022/57eff8764323d_thumb900.jpg" group-title="MY PREMIUM ADULT", XXX: RED TRAFFIC RUSSIAN | HD
 http://its.nextleveliptv.net:8000/Vin/Vin/98404
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY PREMIUM ADULT", PREMIUM ADULT: Exotica Plus | UHD
+http://its.nextleveliptv.net:8000/Vin/Vin/98417
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY PREMIUM ADULT", PREMIUM ADULT: Hustler | UHD
+http://its.nextleveliptv.net:8000/Vin/Vin/98415
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://cdn2.f-cdn.com/contestentries/856622/15816022/57eff8764323d_thumb900.jpg" group-title="MY PREMIUM ADULT", PREMIUM ADULT: Hustler | UHD
+http://its.nextleveliptv.net:8000/Vin/Vin/98416
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://cdn2.f-cdn.com/contestentries/856622/15816022/57eff8764323d_thumb900.jpg" group-title="MY PREMIUM ADULT", PREMIUM ADULT: HUSTLER TV | SD
+http://its.nextleveliptv.net:8000/Vin/Vin/98431
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://cdn2.f-cdn.com/contestentries/856622/15816022/57eff8764323d_thumb900.jpg" group-title="MY PREMIUM ADULT", PREMIUM ADULT: HustlerTV | SD
+http://its.nextleveliptv.net:8000/Vin/Vin/98448
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://cdn2.f-cdn.com/contestentries/856622/15816022/57eff8764323d_thumb900.jpg" group-title="MY PREMIUM ADULT", PREMIUM ADULT: Penthouse | SD
+http://its.nextleveliptv.net:8000/Vin/Vin/98437
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://cdn2.f-cdn.com/contestentries/856622/15816022/57eff8764323d_thumb900.jpg" group-title="MY PREMIUM ADULT", PREMIUM ADULT: Penthouse 1 | UHD
+http://its.nextleveliptv.net:8000/Vin/Vin/98413
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://cdn2.f-cdn.com/contestentries/856622/15816022/57eff8764323d_thumb900.jpg" group-title="MY PREMIUM ADULT", PREMIUM ADULT: Secret Plus HQ | UHD
+http://its.nextleveliptv.net:8000/Vin/Vin/98409
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://cdn2.f-cdn.com/contestentries/856622/15816022/57eff8764323d_thumb900.jpg" group-title="MY PREMIUM ADULT", PREMIUM ADULT: Venus TV | SD
+http://its.nextleveliptv.net:8000/Vin/Vin/98454
