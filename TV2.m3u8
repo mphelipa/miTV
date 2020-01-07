@@ -1209,7 +1209,7 @@ http://its.nextleveliptv.net:8000/Vin/Vin/3046
 http://its.nextleveliptv.net:8000/Vin/Vin/93237
 #EXTINF:-1 tvg-id="TheBlaze (BLAZE)-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Blaze TV
 http://its.nextleveliptv.net:8000/Vin/Vin/93555
-#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: Bloomberg
+#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-name="Bloomberg TV USA-US" tvg-language="English" tvg-logo="" group-title="MY US", US: Bloomberg
 http://its.nextleveliptv.net:8000/Vin/Vin/125
 #EXTINF:-1 tvg-id="Boomerang-US" tvg-name="" tvg-language="English" tvg-logo="" group-title="MY US", US: BOOMERANG
 http://its.nextleveliptv.net:8000/Vin/Vin/197
