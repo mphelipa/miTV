@@ -56,6 +56,18 @@ http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
 http://185.176.117.243/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
 
 
+#EXTINF:-1 group-title="LATIN",TV RED
+http://li1008-155.members.linode.com:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="LATIN",TELEMAX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 group-title="LATIN",MULTIVISION SALTA
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JhVA6l0.png",  group-title="LATIN",Telesur
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6RSsii5.png",  group-title="LATIN",CANAL 26
+http://t13-movil-live.cdn.nedmedia.io/index.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wjwxp3K.png" group-title="CW",.CW Tele Aruba
 http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist_w964107368_b896000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wjwxp3K.png" group-title="CW",.CW Tele Aruba Channel 13
