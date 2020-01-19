@@ -66,6 +66,12 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6RSsii5.png",  group-title="LATIN",CANAL 26
 http://t13-movil-live.cdn.nedmedia.io/index.m3u8
+EXTINF:-1,tvg-name="caracol HD" group-title=”LATIN”,Caracol HD
+http://ecuaplaytv.com:8000/Jloj/C612lznPAM/42577
+ 
+#EXTINF:-1,tvg-name="caracol HD op2" group-title=”LATIN”,Caracol HD op2
+http://ecuaplaytv.com:8000/Jloj/C612lznPAM/42595
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wjwxp3K.png" group-title="CW",.CW Tele Aruba
