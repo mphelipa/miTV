@@ -56,16 +56,10 @@ http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
 http://185.176.117.243/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
 
 
-#EXTINF:-1 group-title="LATIN",TV RED
-http://li1008-155.members.linode.com:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="LATIN",TELEMAX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1 group-title="LATIN",MULTIVISION SALTA
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JhVA6l0.png",  group-title="LATIN",Telesur
-http://http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8/telesur/telesur/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6RSsii5.png",  group-title="LATIN",CANAL 26
-http://t13-movil-live.cdn.nedmedia.io/index.m3u8
 EXTINF:-1,tvg-name="caracol HD" group-title=”LATIN”,Caracol HD
 http://ecuaplaytv.com:8000/Jloj/C612lznPAM/42577
 #EXTINF:-1 group-title="LATIN",DW
@@ -74,56 +68,58 @@ http://paramount.live.flumotion.com/live/playlist.m3u8
 http://184.173.181.2:1935/8062/8062/playlist.m3u8
 #EXTINF:-1 group-title="LATIN",TV PERU
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1 group-title="LATIN",CANAL 21
-http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1 group-title="LATIN",PARAMOUNT
-http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
-#EXTINF:-1 group-title="LATIN",CGTN
-http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 group-title="LATIN",CGTN(2)
-http://cdn.elsalvadordigital.com:1935/canal23/canal23/chunklist_w1682980534.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="LATIN",FMHOT
-http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
-#EXTINF:-1 group-title="LATIN",MML
-https://lh3.googleusercontent.com/tW2q2nlLRQDOmxys8vU4VQ-kiZz9jA0hNmGR6MiC65E-43Pj2_Y0ElP7tpIdgYH14A=w300
-
-
-
-#EXTINF:-1 group-title="LATIN",EXTREMA
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 group-title="LATIN",MICROVISION
-http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
-#EXTINF:-1 group-title="LATIN",MULTIVISION
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
- 
-#EXTINF:-1,tvg-name="caracol HD op2" group-title=”LATIN”,Caracol HD op2
-http://ecuaplaytv.com:8000/Jloj/C612lznPAM/42595
-#EXTINF:-1 group-title=”LATIN”,TELEAMAZONAS
-http://iptv.smartrenovation.co:8000/juanholguing/QIyDMa5x/74429
-#EXTINF:-1 group-title="LATIN",RTS
-http://iptv.smartrenovation.co:8000/juanholguing/QIyDMa5x/74875
 #EXTINF:-1 group-title="LATIN",TVX
 http://iptv.smartrenovation.co:8000/juanholguing/QIyDMa5x/74433
-#EXTINF:-1 group-title="LATIN",WOW
-http://iptv.smartrenovation.co:8000/juanholguing/QIyDMa5x/74429
-#EXTINF:-1 group-title="LATIN",TV SUR
-http://iptv.smartrenovation.co:8000/juanholguing/QIyDMa5x/74431
+#EXTINF:-1 group-title="LATIN",CGTN
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 group-title="LATIN",ExtremaTV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 group-title="LATIN",Ready
+http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8
+#EXTINF:-1 group-title="LATIN",TeleSUR
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1 group-title="LATIN",CGTN Español (Opt-1)
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 group-title="LATIN",DW Español
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:-1 group-title="LATIN",MTV (Opt-1)
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="LATIN",88 Stereo
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 group-title="LATIN",Telesur
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1 group-title="LATIN",TeleUno TV
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+#EXTINF:-1 group-title="LATIN",TeleSUR (VENEZUELA Opt-1)
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="LATIN",MTV (Latinoamérica)--22
+http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 group-title="LATIN",CANAL TRECE ,tvg-logo="https://cr00.epimg.net/radio/imagenes/2018/12/05/nacional/1544029867_795485_1544030022_noticia_normal.jpg"
+http://tv-prime.tv:8080/antonio1/FV08ETb5On/1131
+#EXTINF:-1 group-title="LATIN",CANAL UNO
+http://tv-prime.tv:8080/antonio1/FV08ETb5On/1108
+#EXTINF:-1 group-title="LATIN",CANTINAZO *HD
+http://tv-prime.tv:8080/antonio1/FV08ETb5On/1109
+#EXTINF:-1 group-title="LATIN",CARACOL *HD
+http://tv-prime.tv:8080/antonio1/FV08ETb5On/1111
+#EXTINF:-1 group-title="LATIN",CARACOL *FHD
+http://tv-prime.tv:8080/antonio1/FV08ETb5On/1112
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wjwxp3K.png" group-title="CW",.CW Tele Aruba
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Papiamentu" tvg-logo="https://i.imgur.com/wjwxp3K.png" group-title="CW",.CW Tele Aruba
 http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist_w964107368_b896000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wjwxp3K.png" group-title="CW",.CW Tele Aruba Channel 13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Papiamentu" tvg-logo="https://i.imgur.com/wjwxp3K.png" group-title="CW",.CW Tele Aruba Channel 13
 https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/chunklist_w812279767_b1596000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wjwxp3K.png" group-title="CW",.CW Tele Aruba Channel 23
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Papiamentu" tvg-logo="https://i.imgur.com/wjwxp3K.png" group-title="CW",.CW Tele Aruba Channel 23
 https://backend-server-dot-telearuba-app.appspot.com/media/livestream23/chunklist_w569753524.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/CHlV1j2.png" group-title="CW",.CW TV Carib
 https://5cc309e93b721.streamlock.net/8402/8402/chunklist_w752648583.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/9D9G4co.png" group-title="CW",.CW TeleCuraçao
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Papiamentu" tvg-logo="https://i.imgur.com/9D9G4co.png" group-title="CW",.CW TeleCuraçao
 http://api.streann.com:8080/loadbalancer-dev/services/public/channels/56992db2e4b045bf250ba13c/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/icDfA5x.jpg" group-title="CW",.CW TV Direct 13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Papiamentu" tvg-logo="https://i.imgur.com/icDfA5x.jpg" group-title="CW",.CW TV Direct 13
 http://edge1.tvdirect13.com/live/smil:mystream.smil/playlist_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://www.nostvbonaire.com/wp-content/uploads/2019/01/cropped-LOGO-NOSTV-WEBSITE-2019-1.png" group-title="CW",.CW NOS TV Bonaire
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Papiamentu" tvg-logo="http://www.nostvbonaire.com/wp-content/uploads/2019/01/cropped-LOGO-NOSTV-WEBSITE-2019-1.png" group-title="CW",.CW NOS TV Bonaire
 http://streaming.flamingotv.net/nostv/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Nos_Pais_Logo.svg/1200px-Nos_Pais_Logo.svg.png" group-title="CW",.CW NOS Pais
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Papiamentu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Nos_Pais_Logo.svg/1200px-Nos_Pais_Logo.svg.png" group-title="CW",.CW NOS Pais
 https://558bd16067b67.streamlock.net/nos_pais_24_7/smil:livestream.stream.smil/chunklist_w997519270_b2000000.m3u8
