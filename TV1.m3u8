@@ -63,14 +63,51 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1 group-title="LATIN",MULTIVISION SALTA
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JhVA6l0.png",  group-title="LATIN",Telesur
-http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+http://http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8/telesur/telesur/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6RSsii5.png",  group-title="LATIN",CANAL 26
 http://t13-movil-live.cdn.nedmedia.io/index.m3u8
 EXTINF:-1,tvg-name="caracol HD" group-title=”LATIN”,Caracol HD
 http://ecuaplaytv.com:8000/Jloj/C612lznPAM/42577
+#EXTINF:-1 group-title="LATIN",DW
+http://paramount.live.flumotion.com/live/playlist.m3u8
+#EXTINF:-1 group-title="LATIN",CANAL 14
+http://184.173.181.2:1935/8062/8062/playlist.m3u8
+#EXTINF:-1 group-title="LATIN",TV PERU
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1 group-title="LATIN",CANAL 21
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 group-title="LATIN",PARAMOUNT
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+#EXTINF:-1 group-title="LATIN",CGTN
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 group-title="LATIN",CGTN(2)
+http://cdn.elsalvadordigital.com:1935/canal23/canal23/chunklist_w1682980534.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="LATIN",FMHOT
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
+#EXTINF:-1 group-title="LATIN",MML
+https://lh3.googleusercontent.com/tW2q2nlLRQDOmxys8vU4VQ-kiZz9jA0hNmGR6MiC65E-43Pj2_Y0ElP7tpIdgYH14A=w300
+
+
+
+#EXTINF:-1 group-title="LATIN",EXTREMA
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 group-title="LATIN",MICROVISION
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+#EXTINF:-1 group-title="LATIN",MULTIVISION
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
  
 #EXTINF:-1,tvg-name="caracol HD op2" group-title=”LATIN”,Caracol HD op2
 http://ecuaplaytv.com:8000/Jloj/C612lznPAM/42595
+#EXTINF:-1 group-title=”LATIN”,TELEAMAZONAS
+http://iptv.smartrenovation.co:8000/juanholguing/QIyDMa5x/74429
+#EXTINF:-1 group-title="LATIN",RTS
+http://iptv.smartrenovation.co:8000/juanholguing/QIyDMa5x/74875
+#EXTINF:-1 group-title="LATIN",TVX
+http://iptv.smartrenovation.co:8000/juanholguing/QIyDMa5x/74433
+#EXTINF:-1 group-title="LATIN",WOW
+http://iptv.smartrenovation.co:8000/juanholguing/QIyDMa5x/74429
+#EXTINF:-1 group-title="LATIN",TV SUR
+http://iptv.smartrenovation.co:8000/juanholguing/QIyDMa5x/74431
 
 
 
