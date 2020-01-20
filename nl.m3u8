@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r6Pfj33.png" group-title="NL",TLC
+http://streamingcws20.com:1935/tves/videotves/chunklist_w1550894734.m3u8
