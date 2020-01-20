@@ -1,4 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r6Pfj33.png" group-title="NL",TLC
+#EXTINF:-1 group-title="NL",TLC
 http://streamingcws20.com:1935/tves/videotves/chunklist_w1550894734.m3u8
+#EXTINF:-1 group-title="NL",RTL CRIME
+https://5a61de8ed719d.streamlock.net/live/smil:live.smil/chunklist_w1441489711_b394100_slen.m3u8?fluxustv.m3u8
