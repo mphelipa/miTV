@@ -1,49 +1,5 @@
 #EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz"
 
-#EXTINF:-1 tvg-id="National Geographic US - Eastern-US" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/FOFEg4F.png" group-title="MY US",National Geographic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
-#EXTINF:-1 tvg-id="National Geographic US - Eastern-US" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/FOFEg4F.png" group-title="MY US",National Geographic
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
-#EXTINF:-1 tvg-id="National Geographic US - Eastern-US" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="MY US",National Geograpic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/iJldO7U.jpg" group-title="MY US",NASA TV
-http://c742eca7-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/6540154/2/playlist.m3u8?authType=IP_BASED_IDENTITY&appType=12&appVersion=1&segmentType=ts&content=audiovideo&sgn=c24a2d4ff965b2ea7a189c91d27d57e7297dcbb9&cdnHost=uhs-akamai.ustream.tv/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/iJldO7U.jpg" group-title="MY US",NASA TV
-http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/iJldO7U.jpg" group-title="MY US",NASA TV
-https://tinyurl.com/yyjswlhf
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/iJldO7U.jpg" group-title="MY US",NASA TV
-https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XIpsgye.png" group-title="MY US",History 2
-http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/SvY0iSk.jpg" group-title="MY US",Law & Crime
-https://live-lawandcrime.simplestreamcdn.com/landc_d1/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/SvY0iSk.jpg" group-title="MY US",Law & Crime 2
-https://live-lawandcrime.simplestreamcdn.com/landc_d2/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/39NuAwl.png" group-title="MY US",Law And Crime Network
-https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
-
-#EXTINF:-1 tvg-id="Science-US" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Discovery_Science_Canada_2011.PNG" group-title="MY US",Discovey Science
-http://its.nextleveliptv.net:8000/Vin/Vin/2024
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Ancient_aliens.png/250px-Ancient_aliens.png" group-title="MY 24/7",ANCIENT ALIENS 1 24/7
-http://thenew.tv:8000/Vin/Vin/85032
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Ancient_aliens.png/250px-Ancient_aliens.png" group-title="MY 24/7",ANCIENT ALIENS 2 24/7
-http://its.thunder-tv.com:8000/Vin/Vin/85032
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MY KIDS",Disney Channel
-http://185.176.117.243/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MY KIDS",Nickelodeon
-http://185.176.117.243/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
-#EXTINF:-1 tvg-id="Disney Junior USA - East-US" tvg-name="" tvg-logo="" group-title="MY KIDS",Disney Junior
-http://185.176.117.243/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8
-#EXTINF:-1 tvg-id="Nick Jr. - East-US" tvg-name="" tvg-logo="" group-title="MY KIDS",Nick JR
-http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MY KIDS",Nicktoons
-http://185.176.117.243/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wjwxp3K.png" group-title="CW",.CW Tele Aruba
 http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist_w964107368_b896000_sleng.m3u8
