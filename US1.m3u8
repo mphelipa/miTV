@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-us.xml"
+#EXTM3U
 #EXTINF:-1,A&E FHD US
 http://85.217.222.17:8080/eg95nj2hip/55msaxqs2a/4960
 #EXTINF:-1,A&E HD US
