@@ -483,3 +483,11 @@ http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/41
 http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/22
 #EXTINF:-1,USA: FYI
 http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6428
+
+
+#EXTINF:-1, Real Madrid  TV1
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, Real Madrid TV2 [English]
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1, Real Madrid TV3 [Espanol]
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
